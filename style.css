@@ -1,0 +1,27 @@
+body{
+    background-color: lightblue;
+}
+input{
+    display: block;
+    width: 200px;
+    height: 30px;
+    border: 2px solid black;
+}
+.p1{
+    color: red;
+    font-size: 21px;
+}
+.p2{
+    color: goldenrod;
+    font-size: 21px;
+}
+.checkbox, 
+.radio{
+    width: auto;
+    height: auto;
+    display: inline;
+}
+.submit{
+    background-color: blue;
+    color: white;
+}
